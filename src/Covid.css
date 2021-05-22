@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+section{
+    width: auto;
+    height: 100vh;
+    background-color:#1a1a2e;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+p{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+
+}
+
+.customcard{
+    height: 200px;
+    width: 100px;
+    background-color: teal;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
